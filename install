@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mkdir -p $HOME/exe
+cp -f xmux $HOME/exe/
+
